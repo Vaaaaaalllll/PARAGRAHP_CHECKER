@@ -1,0 +1,8 @@
+# WARNING: template code, may need edits
+spacy>=3.7.0
+language-tool-python>=2.7.1
+pyspellchecker>=0.7.2
+textstat>=0.7.3
+colorama>=0.4.6
+click>=8.1.7
+pytest>=7.0.0
